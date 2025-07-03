@@ -68,9 +68,7 @@
 ---
 
 ## 🏅 Certifications
-
-- [IBM - Data Analysis & Visualization with Python](#)
-- [Kaggle - Pandas, Numpy, Matplotlib](#)
+-  [Data Analytics and Visualization Job Simulation – Forage (Oct–Dec 2024)](https://github.com/kamalUpaDhyAy123/kamalUpaDhyAy123/raw/main/forage-certificate.pdf)                                                   - [Kaggle - Pandas, Numpy, Matplotlib](#)
 - [IBM - Databases and SQL for Data Science](#)
 - [IBM - Statistics for Data Science](#)
 - [Simplilearn - Data Visualization with Tableau](#)

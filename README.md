@@ -69,7 +69,7 @@
 
 ## 🏅 Certifications
 -  [Data Analytics and Visualization Job Simulation – Forage (Oct–Dec 2024)](hzmoNKtzvAzXsEqx8_T6kdcdKSTfg2aotxT_Koq4DQAYvXKSy8eSL_1734596243747_completion_c.pdf)
-- - [*Data Science Internship* – Unified Mentor (July 2024 – Sept 2024)](internshipcertificate,unified mentor.pdf)
+-  [*Data Science Internship* – Unified Mentor (July 2024 – Sept 2024)](https://github.com/kamalUpaDhyAy123/kamalUpaDhyAy123/blob/main/internshipcertificate%2C%20unified%20mentor.pdf)
 - [IBM - Databases and SQL for Data Science](#)
 - [IBM - Statistics for Data Science](#)
 - [Simplilearn - Data Visualization with Tableau](#)

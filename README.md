@@ -33,7 +33,7 @@
 <a href="https://www.instagram.com/kamalupadhyay927/profilecard/?igsh=MWx1NzY2N21uajho" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://youtube.com/@yourchannel" target="_blank">
+<a href="https://youtube.com/@kamalupadhyay7722?si=jt-k6qdJW02bZxhR/@yourchannel" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/>
 </a>
 </p>

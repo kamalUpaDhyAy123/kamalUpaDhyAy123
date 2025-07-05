@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/kamal-upadhyay-60b637247" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://twitter.com/your-twitter" target="_blank">
+<a href="https://twitter.com/KamalUpadh76735" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/kamalupadhyay927/profilecard/?igsh=MWx1NzY2N21uajho" target="_blank">

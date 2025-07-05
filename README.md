@@ -24,9 +24,6 @@
 <a href="https://www.linkedin.com/in/kamal-upadhyay-60b637247" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://medium.com/@your-medium" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white"/>
-</a>
 <a href="https://twitter.com/your-twitter" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
 </a>

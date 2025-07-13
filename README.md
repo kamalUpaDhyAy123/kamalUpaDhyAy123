@@ -73,7 +73,7 @@
 - [🚢 Titanic Survival Prediction](https://github.com/kamalUpaDhyAy123/titanic-ml-model)  
 - [📈 Data Analyst Roadmap](https://github.com/kamalUpaDhyAy123/data-analyst-roadmap)  
 - [📊 Statistics for Data Science using Python](https://github.com/kamalUpaDhyAy123/statistics-python)  
-- [🎧 Spotify Data Analysis using Python]()  
+- [🎧 Spotify Data Analysis using Python](https://github.com/kamalUpaDhyAy123/Spotify-Data-Analysis-Using-Python)  
 - [🧾 Library Management System with Django](https://github.com/kamalUpaDhyAy123/library-django)  
 - [💹 Sales Insights using SQL and Tableau](https://github.com/kamalUpaDhyAy123/sales-insights)
 

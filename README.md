@@ -71,14 +71,12 @@
 ## 🌟 Featured Projects
 
 - [🚢 Titanic Survival Prediction](https://github.com/kamalUpaDhyAy123/titanic-ml-model)  
-- [📈 Data Analyst Roadmap](https://github.com/kamalUpaDhyAy123/data-analyst-roadmap)  
-- [📊 Statistics for Data Science using Python](https://github.com/kamalUpaDhyAy123/statistics-python)  
+- [🛒📊Amazon_Sales_Analysis]()
 - [🎧 Spotify Data Analysis using Python](https://github.com/kamalUpaDhyAy123/Spotify-Data-Analysis-Using-Python)  
 - [🧾 Library Management System with Django](https://github.com/kamalUpaDhyAy123/library-django)  
 - [💹 Sales Insights using SQL and Tableau](https://github.com/kamalUpaDhyAy123/sales-insights)
 
 ---
-
 ## 🏅 Certifications
 -  [Data Analytics and Visualization Job Simulation – Forage (Oct–Dec 2024)](hzmoNKtzvAzXsEqx8_T6kdcdKSTfg2aotxT_Koq4DQAYvXKSy8eSL_1734596243747_completion_c.pdf)
 -  [*Data Science Internship* – Unified Mentor (July 2024 – Sept 2024)](https://github.com/kamalUpaDhyAy123/kamalUpaDhyAy123/blob/main/internshipcertificate%2C%20unified%20mentor.pdf)

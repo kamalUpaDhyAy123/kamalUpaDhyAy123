@@ -84,8 +84,7 @@
 -  [*Data Science Internship* – Unified Mentor (July 2024 – Sept 2024)](https://github.com/kamalUpaDhyAy123/kamalUpaDhyAy123/blob/main/internshipcertificate%2C%20unified%20mentor.pdf)
 -  [*Power BI Workshop* – Office Master (June 2024)](https://certx.in/certificate/36a28147-6eed-47a5-8342-e5f926ebba61469809)
 - [*Master Program – Data Scientist* – Physics Wallah (4th jan 2025)](pw.pdf)
-- [Simplilearn - Data Visualization with Tableau](#)
-- [PWC - Advanced Excel](#)
+- 
 
 ---
 
